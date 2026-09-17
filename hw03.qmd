@@ -59,7 +59,7 @@ what this implies about the influence of a single large outlier.
 
 **(b) (2 points)** The two panels below are diagnostics for the fit in Problem 1.
 
-![](figs/hw2-diagnostics.png){width=100%}
+![](figs/hw3-diagnostics.png){width=100%}
 
   i. Which assumption does **each** panel test?
   ii. Which panel shows a violation, and **what specifically in the plot** tells you?
